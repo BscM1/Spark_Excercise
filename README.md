@@ -1,9 +1,10 @@
-# Spark_Excercise // Big Data cCourse
+# Spark_Excercise // Big Data Course
 
 ## Submitted by
-- Name: Nadav Masliah  
-  ID: 209126887  
+- Nadav Masliah
+  - ID: 209126887  
 
-- Name: Stav Hecht
-  ID: 211794151  
+- Stav Hecht
+  - ID: 211794151
+  
 
