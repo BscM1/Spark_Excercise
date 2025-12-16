@@ -1,6 +1,6 @@
 # Spark_Excercise // Big Data Course
 
-## Submitted by
+## Submitted by:
 - Nadav Masliah
   - ID: 209126887  
 
